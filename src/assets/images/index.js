@@ -5,6 +5,7 @@ import starbucks from './starbucks.png'
 import tesla from './tesla.png'
 import logo from './logo.svg'
 import cdac from './cdac.png'
+import home from './homeimg.png'
 
 export {
     hero,
@@ -14,5 +15,6 @@ export {
     tesla,
     logo,
     cdac,
+    home,
 
 }
