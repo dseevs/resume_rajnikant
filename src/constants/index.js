@@ -188,7 +188,7 @@ export const projects = [
     theme: "btn-back-red",
     name: "Country Details",
     description:
-      "Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.",
+      "Developed a web application that provides the information about all the countries in the word with other specific details like language, currency etc.",
     link: "https://countrydetailsmy.netlify.app",
   },
   {
