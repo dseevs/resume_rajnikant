@@ -4,6 +4,7 @@ import shopify from './shopify.png'
 import starbucks from './starbucks.png'
 import tesla from './tesla.png'
 import logo from './logo.svg'
+import logorkt from './logorkt.png'
 import cdac from './cdac.png'
 import home from './homeimg.png'
 
@@ -16,5 +17,6 @@ export {
     logo,
     cdac,
     home,
+    logorkt,
 
 }
